@@ -11,6 +11,7 @@
 
 </div>
 <div style="display: inline_block"><br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" alt="Elencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elencio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elencio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
