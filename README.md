@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/elencio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&layout=compact&langs_count=7&theme=algolia" />
 </div>
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
+  <img align="left"height="150" alt="coding-time" src="code.gif" />
   <img align="center" alt="Elencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elencio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elencio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
