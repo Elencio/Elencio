@@ -6,7 +6,8 @@
 <div align="center">
   <a href="https://github.com/elencio">
   <img height = "170em" src = "https://github-readme-stats.vercel.app/api?username=elencio&theme=transparente&show_icons=true"/>
-  <img height="170em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+    
+  <img height="170em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 
 </div>
