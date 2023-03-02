@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning TypeScript, React, JavaScript.
 - 😄 Pronouns: He/Him
 
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div align="center">
   <a href="https://github.com/elencio">
   <img  align="center" height = "170em" src = "https://github-readme-stats.vercel.app/api?username=elencio&theme=transparente&show_icons=true"/>
