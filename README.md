@@ -28,10 +28,10 @@
   
  Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/elencio/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/elencio/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=elencio.github.io&theme=buefy" />
 </a>
   
