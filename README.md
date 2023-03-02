@@ -18,8 +18,6 @@
 </div>
 
 
-
-
 ##
 
 <div>
@@ -34,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=elencio.github.io&theme=buefy" />
 </a>
   
   ![Snake animation](https://github.com/elencio/elencio/blob/output/github-contribution-grid-snake.svg)
