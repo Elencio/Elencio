@@ -7,12 +7,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<div align="center">
-  <a href="https://github.com/elencio">
-  <img  align="center" height = "170em" src = "https://github-readme-stats.vercel.app/api?username=elencio&theme=transparente&show_icons=true"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&hide_progress=true"/>
-</div>
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elencio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +16,16 @@
   <img align="center" alt="Elencio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elencio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elencio-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- 
 </div>
+
+<code><img height="20" alt="javascript" src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+<code><img height="20" alt="react" src="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="20" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> 
+<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
+
 
 ##
 
@@ -34,7 +36,6 @@
   <a href="https://www.linkedin.com/in/el%C3%AAncio-zivane-74a285243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  Top Repositories
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=github-readme-stats&theme=buefy" />
