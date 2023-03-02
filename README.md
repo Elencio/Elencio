@@ -5,9 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/elencio">
-  <img height = "170em" src = "https://github-readme-stats.vercel.app/api?username=elencio&theme=transparente&show_icons=true"/>
-    
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&hide_progress=true"/>
+  <img  align="center" height = "170em" src = "https://github-readme-stats.vercel.app/api?username=elencio&theme=transparente&show_icons=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencio&hide_progress=true"/>
 </div>
 
 </div>
@@ -28,7 +27,17 @@
  <a href="https://instagram.com/elenciozivane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatoelenciocalado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/el%C3%AAncio-zivane-74a285243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/el%C3%AAncio-zivane-74a285243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+ Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elencio&repo=anuraghazra.github.io&theme=buefy" />
+</a>
   
   ![Snake animation](https://github.com/elencio/elencio/blob/output/github-contribution-grid-snake.svg)
   </div>
