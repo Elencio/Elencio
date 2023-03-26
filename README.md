@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Elencio/Elencio/blob/main/Design%20sem%20nome.png)
+![MasterHead](https://github.com/Elencio/Elencio/blob/main/Design%20sem%20nome.png)
 
 <h1 align="left">Hi 👋, I'm Elencio Calado Zivane</h1>
 <h3 align="left">A passionate frontend developer from Brazil</h3>
