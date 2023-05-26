@@ -22,7 +22,7 @@
 
 <a  href="https://app.daily.dev/elencio">
      <img  
-     width= "256"
+     width= "300"
      align="right" src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev      Card"
       />
  </a>
@@ -42,9 +42,9 @@
   </div>
 
 </div>
-
-
 <div>
+  
+  ##
 
 ![Snake animation](https://github.com/elencio/elencio/blob/output/github-contribution-grid-snake.svg)
 
