@@ -16,13 +16,13 @@
 
 - ⚡ Fun fact **When I was in high school I learned how to say you’re welcome**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/elencio-calado-zivane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elencio-calado-zivane" height="30" width="40" /></a>
 <a href="https://discord.gg/elenciozivane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elenciozivane" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="right">Languages and Tools:</h3>
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
 
