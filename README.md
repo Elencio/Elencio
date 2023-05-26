@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Elencio Calado Zivane</h1>
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 
-<a  align="right" href="https://app.daily.dev/elencio"><img  align ="left"src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev Card"/></a>
+<a  align="right" href="https://app.daily.dev/elencio"><img  align="left" src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on **Software Developer**
