@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Elencio Calado Zivane</h1>
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478m0diuvygzvod9gex7f68jbkvi7fs8c5m8uuknid&rid=giphy.gif&ct=g">
+
 
 
 - 🔭 I’m currently working on **Software Developer**
