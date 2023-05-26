@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478m0diuvygzvod9gex7f68jbkvi7fs8c5m8uuknid&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elencio&label=Profile%20views&color=0e75b6&style=flat" alt="elencio" /> </p>
+<a align="left" href="https://app.daily.dev/elencio"><img src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev Card"/></a>
 
 - 🔭 I’m currently working on **Software Developer**
 
