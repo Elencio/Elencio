@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Elencio Calado Zivane</h1>
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 
-
+<a  align="left" href="https://app.daily.dev/elencio"><img src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on **Software Developer**
@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
-<a href="https://app.daily.dev/elencio"><img src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev Card"/></a>
+
 
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
