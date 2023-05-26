@@ -20,18 +20,20 @@
     />
   </a>
 
-<a  align="right" href="https://app.daily.dev/elencio">
- <img  
-      align="left" src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev      Card"
+<a  href="https://app.daily.dev/elencio">
+     <img  
+     width= "256"
+     align="right" src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev      Card"
       />
  </a>
 </div>
 
   <div>
-   ###
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elencio&show_icons=true&locale=en&layout=compact"     alt="elencio" /></p>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elencio&show_icons=true&locale=en&layout=compact"       alt="elencio" /></p>
+   
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&locale=en" alt="elencio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&locale=en" alt="elencio" /></p>
 
 
 
