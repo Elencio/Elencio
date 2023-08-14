@@ -32,6 +32,11 @@
               align="center" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&locale=en" alt="elencio"
               /></p>
 
+              <p>
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&theme=transparent" alt="elencio" />
+               
+              </p>
+
 
 
 
