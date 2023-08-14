@@ -14,11 +14,6 @@
       alt="LinkedIn"
     />
   </a>
-  <a rel="me" href="https://discord.gg/elenciozivane">
-    <img
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elenciozivane" height="30" width="40"
-    />
-  </a>
 
 <a  href="https://app.daily.dev/elencio">
      <img  
@@ -46,9 +41,7 @@
 </div>
 <div>
   
-  ##
-
-![Snake animation](https://github.com/elencio/elencio/blob/output/github-contribution-grid-snake.svg)
+####
 
 </div>
 
