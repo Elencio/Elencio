@@ -1,53 +1,20 @@
-##
-<h3 align="left" color="#ff0000"> Ola, chamo-me Elencio, mas prefiro Calado</h3>
-<div>
-<div align="left">
-  <a href="##">
-    <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://linkedin.com/in/elencio-calado-zivane">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
+# Elêncio Calado Zivane
 
-<a  href="https://app.daily.dev/elencio">
-     <img  
-     width= "300"
-     align="right" src="https://api.daily.dev/devcards/b29609e0ec444d339e8c175f14b3fc52.png?r=gtb" width="400" alt="Elencio Calado Custume Zivane's Dev      Card"
-      />
- </a>
-</div>
+Desenvolvedor Full Stack
 
-  <div>
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elencio&show_icons=true&locale=en&layout=compact"       alt="elencio" /></p>
-   
+[![Linkedin Badge](https://img.shields.io/badge/-Elêncio%20Calado%20Zivane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elencio-calado-zivane/)](https://www.linkedin.com/in/elencio-calado-zivane/)
+[![Gmail Badge](https://img.shields.io/badge/-caladojunior965@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caladojunior965@gmail.com)](mailto:caladojunior965@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@elencio.zivane-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/elencio.zivane)](https://instagram.com/elencio.zivane)
 
-<p>&nbsp;<img 
-              align="center" src="https://github-readme-stats.vercel.app/api?username=elencio&show_icons=true&locale=en&theme="transparent" alt="elencio"
-              /></p>
+Usa os conhecimentos tecnicos que você tem para resolver problemas sociais, tecnologias são ferramentas, o que realmente importa é resolver problemas com o que sabe.
 
-    
+> "If you do not fail you are not even trying" - Denzel Washington
 
+### Tecnologias
 
-
-####  
-  </div>
-
-</div>
-<div>
-  
-####
-
-</div>
-
-
- 
- 
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
